@@ -1,0 +1,28 @@
+{
+  "name": "coders_cafe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClassyP/coders_cafe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClassyP/coders_cafe/issues"
+  },
+  "homepage": "https://github.com/ClassyP/coders_cafe#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "mongoose": "^5.1.2",
+    "npm": "^6.0.1",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "save": "^2.3.2"
+  }
+}
